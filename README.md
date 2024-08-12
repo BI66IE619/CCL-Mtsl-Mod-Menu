@@ -1,0 +1,2 @@
+# CCL-Mtsl-Mod-Menu
+Case Clicker Legacy Mtsl - MOD MENU - AUTO CLICKER, ITEM GIVER, DATA VALUES, INFINITE MONEY
