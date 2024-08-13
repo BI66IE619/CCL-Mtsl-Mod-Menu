@@ -1,6 +1,7 @@
 Case Clicker Mod Menu
 Made by BI66IE619
 
+![CSGOWeaponCase3](https://github.com/user-attachments/assets/ac72c86c-ee0f-42b8-976f-9f2e7db73e4a)
 
 The game can be found at https://mtsl.dk/csgo/
 
