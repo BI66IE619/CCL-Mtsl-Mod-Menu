@@ -36,3 +36,4 @@ Mac: Command + V
 (Step Five) Enjoy:
 You have now successfully injected our case clicker mod menu, make sure to share with a friend and star this github repository to get it to more people, Remember you can press E to hide the menu if it gets in your way!
 
+By the way, please dont spam for updates and these are the final updates on the Mod Menu, enjoy and goodbye...
